@@ -1,13 +1,13 @@
 {
-    "name": "Tech Title Composer",
+    "name": "Tech Title Constructor",
     "short_name": "TTC",
     "icons": [
         {
-            "src": "icon-192.png",
+            "src": "/icon-192.png",
             "sizes": "192x192"
         },
         {
-            "src": "icon-512.png",
+            "src": "/icon-512.png",
             "sizes": "512x512"
         }
     ],
