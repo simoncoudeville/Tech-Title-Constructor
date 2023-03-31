@@ -205,9 +205,9 @@ p {
 }
 
 .app__title {
-    --minFontSize: 2rem;
+    --minFontSize: 3.5rem;
     --maxFontSize: 14rem;
-    --scaler: 13.25vw;
+    --scaler: 14.5vw;
     /* font-family: 'Big Shoulders Display', sans-serif; */
     /* font-family: "Mona Sans Variable", sans-serif; */
     /* font-family: "Hubot Sans Variable", sans-serif; */
