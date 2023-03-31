@@ -1,0 +1,17 @@
+{
+    "name": "Tech Title Composer",
+    "short_name": "TTC",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512"
+        }
+    ],
+    "theme_color": "#80ffd4",
+    "background_color": "#80ffd4",
+    "display": "standalone"
+}
